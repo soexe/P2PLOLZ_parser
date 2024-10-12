@@ -1,7 +1,7 @@
 import os
 import sys
 import time
-import asyncio  # Добавьте этот импорт
+import asyncio
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'core')))
 import configuration
 from core import forum
