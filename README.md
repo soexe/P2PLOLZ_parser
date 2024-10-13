@@ -4,6 +4,7 @@
 <h1>Bulding</h1>
 <p>Download on ur VPS / PC, after use this:</p>
 <code>python3-pip install requirements.txt</code>
+
 <p>Configure configuration.py, after use:</p>
 <code>python3 main.py</code>
 
